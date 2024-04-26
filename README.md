@@ -23,10 +23,6 @@ To use the MNIST Digit Classifier:
 5. Release the mouse button after drawing a digit to see the model's prediction in real-time.
 6. Explore additional features such as saving drawn images and clearing the drawing board.
 
-## Contributions
-
-Contributions to MNIST Digit Classifier are welcome! Whether you want to improve the neural network model, enhance the drawing application, or add new features, feel free to submit pull requests or open issues on GitHub.
-
 ## Acknowledgments
 
 Special thanks to the creators of the PyTorch and Pygame libraries for providing powerful tools for deep learning and game development, respectively. Additionally, we acknowledge the contributors to the MNIST dataset, which has been instrumental in advancing research in machine learning and computer vision.
